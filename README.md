@@ -29,7 +29,7 @@ $ export FLASK_ENV=development
 $ flask run -h 0.0.0.0 
 ```  
 在PC端或移动端访问端口为5000的网址即可进行注册，登录，发帖等操作，仅供测试。 
-```
+
 
 
 ## 相关仓库
